@@ -1,0 +1,1 @@
+date,time,ip,leap_status,stratum,rfc_5905_1-3,rfc_5905_3-5,delay_tests,local_poll,remote_poll,score,estimated_local_error,peer_delay,peer_dispersion,reference_id,ntp_mode,transmit_timestamp_source,receive_timestamp_source
